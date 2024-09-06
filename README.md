@@ -1,6 +1,6 @@
 Please Read This Before visiting the page :
 
-Please open the site in Laptop or PC, i can't make this site responsive in phone due to  time constraint
+Please access the site using a laptop or PC, as I'm unable to make it responsive on mobile devices due to time constraints.
 
 status of Project - Ongoing
 

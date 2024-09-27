@@ -332,6 +332,7 @@ body {
 /* Name of product - Desgin */
 .name-product {
   padding: 15px 0px;
+  text-align: center;
 }
 
 /* discount logo -Desgin */
@@ -598,4 +599,3 @@ body {
   width: 16px;
   border-radius: none;
 }
-

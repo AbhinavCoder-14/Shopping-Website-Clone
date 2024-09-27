@@ -1,3 +1,7 @@
+/* 986 - width se responsive banana hei */
+
+
+
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
 
 body {
@@ -469,11 +473,11 @@ body {
 }
 
 #Electronic-Best-seller1:hover {
-  width: 95%;
+  width: 80%;
 }
 
 #Electronic-Best-seller2:hover {
-  width: 95%;
+  width: 80%;
 }
 
 .slide__text-2 {

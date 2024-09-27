@@ -17,7 +17,15 @@ body {
 #Navigation_Bar {
   display: flex;
   flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  z-index: 1;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
+
 
 #Navigation_Bar::before {
   content: "";
@@ -31,7 +39,7 @@ body {
 
 .Logo_img {
   cursor: pointer;
-  padding: 6px 40px;
+  padding: 3px 40px;
 }
 
 #Left_nav {

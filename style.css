@@ -459,18 +459,21 @@ body {
 }
 
 .Electronic-Best-seller {
-  transition: width 0.6s ease-out;
+  transition: transform 0.6s ease,background-size 0.6s ease,background 0.6s ease;
   transition-delay: 0.17s;
   background-blend-mode: darken;
-  will-change: width;
+  will-change: transform,baclgrund-size,background;
 }
 
 #Electronic-Best-seller1 {
   background: rgba(0, 0, 0, 0.3) url("Image/work`.jpg") center center/cover;
+  background-size: 100%;
+
 }
 
 #Electronic-Best-seller2 {
   background: rgba(0, 0, 0, 0.3) url("Image/work3.jpg") center center/cover;
+  background-size: 100%;
 }
 
 /* .Electronic-Best-seller{
@@ -478,11 +481,16 @@ body {
 } */
 
 #Electronic-Best-seller1:hover {
-  width: 70%;
+  transform: scale(102%);
+  background-size: 105%;
+  background: rgba(0, 0, 0, 0.1) url("Image/work`.jpg") center center/cover;
 }
 
 #Electronic-Best-seller2:hover {
-  width: 70%;
+  transform: scale(102%);
+  background-size: 105%;
+  background: rgba(0, 0, 0, 0.1) url("Image/work3.jpg") center center/cover;
+
 }
 
 .slide__text-2 {

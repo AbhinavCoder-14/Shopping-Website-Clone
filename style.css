@@ -462,7 +462,7 @@ body {
   transition: width 0.6s ease-out;
   transition-delay: 0.17s;
   background-blend-mode: darken;
-  will-change: width,opacity;
+  will-change: width;
 }
 
 #Electronic-Best-seller1 {
@@ -478,11 +478,11 @@ body {
 } */
 
 #Electronic-Best-seller1:hover {
-  width: 80%;
+  width: 70%;
 }
 
 #Electronic-Best-seller2:hover {
-  width: 80%;
+  width: 70%;
 }
 
 .slide__text-2 {

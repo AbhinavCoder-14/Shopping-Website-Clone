@@ -466,13 +466,13 @@ body {
 }
 
 #Electronic-Best-seller1 {
-  background: rgba(0, 0, 0, 0.3) url("Image/work`.jpg") center center/cover;
+  background: rgba(0, 0, 0, 0.4) url("Image/work`.jpg") center center/cover;
   background-size: 100%;
 
 }
 
 #Electronic-Best-seller2 {
-  background: rgba(0, 0, 0, 0.3) url("Image/work3.jpg") center center/cover;
+  background: rgba(0, 0, 0, 0.4) url("Image/work3.jpg") center center/cover;
   background-size: 100%;
 }
 
@@ -483,13 +483,13 @@ body {
 #Electronic-Best-seller1:hover {
   transform: scale(102%);
   background-size: 105%;
-  background: rgba(0, 0, 0, 0.1) url("Image/work`.jpg") center center/cover;
+  background: rgba(0, 0, 0, 0.2) url("Image/work`.jpg") center center/cover;
 }
 
 #Electronic-Best-seller2:hover {
   transform: scale(102%);
   background-size: 105%;
-  background: rgba(0, 0, 0, 0.1) url("Image/work3.jpg") center center/cover;
+  background: rgba(0, 0, 0, 0.2) url("Image/work3.jpg") center center/cover;
 
 }
 
